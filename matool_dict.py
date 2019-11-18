@@ -1,12 +1,12 @@
 
 matool_dict = {
 
-	"Some shieet": {
-		"Tags": ['Python', 'Web'],
+	"Hands on Machine Learning": {
+		"Tags": ['Python', 'ML', 'AI'],
 		"Start date": '2019-02-05',
 		"End date": '2019-09-25',
-		"Status": 'Completed',
-		"Feedback": '' 
+		"Status": 'Started',
+		"Feedback": 8
 	},
 
 	"Some other shieet": {
